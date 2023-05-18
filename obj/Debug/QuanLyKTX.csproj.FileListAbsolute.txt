@@ -1,0 +1,16 @@
+D:\LTW\QuanLyKTX\bin\Debug\QuanLyKTX.exe.config
+D:\LTW\QuanLyKTX\bin\Debug\QuanLyKTX.exe
+D:\LTW\QuanLyKTX\bin\Debug\QuanLyKTX.pdb
+D:\LTW\QuanLyKTX\obj\Debug\QuanLyKTX.csprojAssemblyReference.cache
+D:\LTW\QuanLyKTX\obj\Debug\QuanLyKTX.Properties.Resources.resources
+D:\LTW\QuanLyKTX\obj\Debug\QuanLyKTX.csproj.GenerateResource.cache
+D:\LTW\QuanLyKTX\obj\Debug\QuanLyKTX.csproj.CoreCompileInputs.cache
+D:\LTW\QuanLyKTX\obj\Debug\QuanLyKTX.exe
+D:\LTW\QuanLyKTX\obj\Debug\QuanLyKTX.pdb
+D:\LTW\QuanLyKTX\obj\Debug\QuanLyKTX.Login.resources
+D:\LTW\QuanLyKTX\obj\Debug\QuanLyKTX.QuanLyPhong.resources
+D:\LTW\QuanLyKTX\obj\Debug\QuanLyKTX.QuanLySV.resources
+D:\LTW\QuanLyKTX\obj\Debug\QuanLyKTX.QuanLyDN.resources
+D:\LTW\QuanLyKTX\bin\Debug\System.Data.SQLite.xml
+D:\LTW\QuanLyKTX\obj\Debug\QuanLyKTX.csproj.CopyComplete
+D:\LTW\QuanLyKTX\obj\Debug\QuanLyKTX.SuaDonGia.resources
