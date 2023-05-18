@@ -1,1 +1,2 @@
 # QuanLyKTX
+.Net Framework + SQLite
